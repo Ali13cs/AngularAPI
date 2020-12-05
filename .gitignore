@@ -440,3 +440,4 @@ Source/packages/WebGrease.1.6.0/.signature.p7s
 Source/packages/WebGrease.1.6.0/WebGrease.1.6.0.nupkg
 Source/packages/WebGrease.1.6.0/lib/WebGrease.dll
 Source/packages/WebGrease.1.6.0/tools/WG.EXE
+Source/obj/Debug/AngularAPI.csprojAssemblyReference.cache
